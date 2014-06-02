@@ -1,0 +1,5 @@
+name = "jstimerblock"
+description = "block for jstimer."
+package = "Javascript timer"
+core = 7.x
+
